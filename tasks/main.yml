@@ -1,0 +1,9 @@
+---
+- name: Install packages
+  yum: name={{item}} state=latest
+  with_items:
+    - fuse
+    - fuse-libs
+
+- name: Configure fuse
+  template: dest=/etc/fuse.conf src=fuse.conf.j2 owner=root group=root mode=0644

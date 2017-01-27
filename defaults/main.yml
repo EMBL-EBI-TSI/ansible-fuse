@@ -1,0 +1,3 @@
+---
+fuse_mount_max: 1000
+fuse_user_allow_other: no
