@@ -1,3 +1,6 @@
 ---
+# Sets the maximum number of FUSE mounts allowed to non-root users.
 fuse_mount_max: 1000
+
+# Allows non-root users to specify the `allow_other` and `allow_root` mount options.
 fuse_user_allow_other: no
