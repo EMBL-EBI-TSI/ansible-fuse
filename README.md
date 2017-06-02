@@ -1,8 +1,9 @@
 Fuse
 ====
-Install and configure fuse.
+Install and configure fuse utilities and libraries.
 
 This role installs FUSE and configures `/etc/fuse.conf`.
+
 Requirements
 ------------
 See `meta/main.yml`.
