@@ -27,7 +27,7 @@ Example:
 
 Licence
 -------
-Licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+Released under the [MIT license](https://opensource.org/licenses/MIT).
 
 Author Information
 ------------------
